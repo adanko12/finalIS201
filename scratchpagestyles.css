@@ -1,0 +1,61 @@
+
+.Pagebg {
+    background-image: url('../pictures/chilean\ flag.png');
+    background-position: top right;
+    display: block;
+    background-size: 650px 300px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+.header {
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    position: top right;
+    text-decoration: underline;
+
+}
+
+a:visited {
+    color: rgb(255, 255, 255);
+  }
+
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+
+.mainbody {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: left;
+    font-size: 14px;
+
+}
+
+.leftmenu {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: left;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: azure;
+
+}
+
+.footer {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
